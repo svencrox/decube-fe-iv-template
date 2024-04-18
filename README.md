@@ -29,8 +29,6 @@
 
 ## Assignment Details
 
-For design inspiration, you can see [the example here](<https://www.figma.com/file/Y8ohcJuzy1O0rNVRcGrim3/HTML-%26-CSS-Basics-(Community)?type=design&node-id=102-442&mode=design&t=lEAUHJUGaUvl0BnH-0>)
-
 For interview purpose, you need to incorporate two endpoints, which are provided in the documentation respectively:
 
 - **_Popular Movie Listing_**: https://developer.themoviedb.org/reference/movie-popular-list
